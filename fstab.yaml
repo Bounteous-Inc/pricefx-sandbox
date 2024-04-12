@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p131512-e1282667.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p131512-e1282667.adobeaemcloud.com/bin/franklin.delivery/Bounteous-Inc/pricefx-sandbox/main"
     type: "markup"
     suffix: ".html"
